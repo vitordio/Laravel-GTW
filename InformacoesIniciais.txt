@@ -1,0 +1,15 @@
+GTW Press
+Sistema onde será feito o rastreamento da carga
+
+1ª Fase
+Cadastro de Login
+Cadastro de Clientes, Motoristas e Veículos
+Receber os campos dos cadastros
+
+Funcionalidade para importar os clientes já existentes do sistema atual deles
+
+2ª Fase
+Visualização parecida com o KB para fases das coletas
+
+
+Visualização de menus como o Wesley fez http://rt008.electrainformatica.com.br/ebalav/index.html
